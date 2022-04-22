@@ -1,0 +1,15 @@
+{
+    "name": "E2 Azure Translations",
+    "description": "",
+    "keywords": [
+      "Node"
+    ],
+    "repository": "https://github.com/Smigg-y/E2-Azure-Translation",
+    "logo": "",
+    "success_url": "/",
+    "buildpacks": [
+      {
+        "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
+      }
+    ]
+}
